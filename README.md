@@ -15,10 +15,22 @@
    ```bash
    git clone https://github.com/FinalKvanta/e2ehhru.git
    cd e2ehhru
+   ```
 
-2. **Запустите файл**
+2. **Установите зависимости**
+
+   ```bash
+   # Для macOS
+   python3 -m pip install -r requirements.txt
+
+   # Для Windows
+   python -m pip install -r requirements.txt
+   ```
+
+3. **Запустите файл**
 
     ```bash
     Mac os - python3 main.py
     Windows - python main.py
+    ```
 
