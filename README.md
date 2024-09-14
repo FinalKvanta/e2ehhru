@@ -21,10 +21,10 @@
 
    ```bash
    # Для macOS
-   pip3 -m install -r requirements.txt
+   pip3 install -r requirements.txt
 
    # Для Windows
-   pip -m install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. **Запустите файл**
