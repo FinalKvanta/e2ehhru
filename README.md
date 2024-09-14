@@ -18,6 +18,7 @@
 
 2. **Запустите файл**
 
+    ```bash
     Mac os - python3 main.py
     Windows - python main.py
 
