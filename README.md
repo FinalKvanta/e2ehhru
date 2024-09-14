@@ -15,3 +15,9 @@
    ```bash
    git clone https://github.com/FinalKvanta/e2ehhru.git
    cd e2ehhru
+
+2. **Запустите файл**
+
+    Mac os - python3 main.py
+    Windows - python main.py
+
